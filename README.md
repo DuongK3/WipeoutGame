@@ -1,5 +1,5 @@
 # WipeoutGame
-Đây là dự án trò chơi được thực hiện cho môn học "Chuyên đề chuyên sâu Kỹ thuật phần mềm 2" được thực hiện bởi Dương Đình Bảo 
+Đây là dự án trò chơi được thực hiện cho môn học "Chuyên đề chuyên sâu Kỹ thuật phần mềm 1" được thực hiện bởi Dương Đình Bảo 
 Trường: Đại học Nguyễn Tất Thành
 Chuyên ngành: Kỹ thuật phần mềm
 MSSV: 2100006969 
